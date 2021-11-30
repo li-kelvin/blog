@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /blog/tags/
+Disallow: /blog/page/
+Disallow: /blog/categories/
+
+https://www.bodunhu.com/blog/sitemap.xml
